@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leono\\Desktop\\Laba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\showproductsbycategoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\showproductsbycategoryclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\showallproductsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\showallproductsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\removeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\removeproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\calculatetotalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\calculatetotalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\getproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|c:\\users\\leono\\desktop\\laba1\\console\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B0745-430F-4718-92CB-2A052383E239}|Console\\Console.csproj|solutionrelative:console\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7D687-A21B-4F18-A454-4640A18304D6}|ModelLogic\\ModelLogic.csproj|c:\\users\\leono\\desktop\\laba1\\modellogic\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7D687-A21B-4F18-A454-4640A18304D6}|ModelLogic\\ModelLogic.csproj|solutionrelative:modellogic\\productclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F7D687-A21B-4F18-A454-4640A18304D6}|ModelLogic\\ModelLogic.csproj|c:\\users\\leono\\desktop\\laba1\\modellogic\\logicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F7D687-A21B-4F18-A454-4640A18304D6}|ModelLogic\\ModelLogic.csproj|solutionrelative:modellogic\\logicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowProductsByCategoryClass.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\ShowProductsByCategoryClass.cs",
+              "RelativeDocumentMoniker": "Console\\ShowProductsByCategoryClass.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\ShowProductsByCategoryClass.cs",
+              "RelativeToolTip": "Console\\ShowProductsByCategoryClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:50.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowAllProductsClass.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\ShowAllProductsClass.cs",
+              "RelativeDocumentMoniker": "Console\\ShowAllProductsClass.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\ShowAllProductsClass.cs",
+              "RelativeToolTip": "Console\\ShowAllProductsClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:48.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoveProduct.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\RemoveProduct.cs",
+              "RelativeDocumentMoniker": "Console\\RemoveProduct.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\RemoveProduct.cs",
+              "RelativeToolTip": "Console\\RemoveProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:45.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculateTotalClass.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\CalculateTotalClass.cs",
+              "RelativeDocumentMoniker": "Console\\CalculateTotalClass.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\CalculateTotalClass.cs",
+              "RelativeToolTip": "Console\\CalculateTotalClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetProduct.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\GetProduct.cs",
+              "RelativeDocumentMoniker": "Console\\GetProduct.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\GetProduct.cs",
+              "RelativeToolTip": "Console\\GetProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Console\\AddProduct.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\Console\\AddProduct.cs",
+              "RelativeToolTip": "Console\\AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductClass.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\ModelLogic\\ProductClass.cs",
+              "RelativeDocumentMoniker": "ModelLogic\\ProductClass.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\ModelLogic\\ProductClass.cs",
+              "RelativeToolTip": "ModelLogic\\ProductClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:32.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogicClass.cs",
+              "DocumentMoniker": "C:\\Users\\leono\\Desktop\\Laba1\\ModelLogic\\LogicClass.cs",
+              "RelativeDocumentMoniker": "ModelLogic\\LogicClass.cs",
+              "ToolTip": "C:\\Users\\leono\\Desktop\\Laba1\\ModelLogic\\LogicClass.cs",
+              "RelativeToolTip": "ModelLogic\\LogicClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:37:31.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
